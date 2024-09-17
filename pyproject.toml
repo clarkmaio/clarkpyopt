@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "clarkpy-optimisation"
+version = "0.1.0"
+description = ""
+authors = ["clarkmaio <maioliandrea0@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+sklearn="*"
+optuna="*"
+numpy="*"
+pandas="*"
+cvxpy="*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
