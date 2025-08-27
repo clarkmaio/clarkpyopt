@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "clarkpy-optimisation"
+name = "clarkpyopt"
 version = "0.1.0"
 description = ""
 authors = ["clarkmaio <maioliandrea0@gmail.com>"]
